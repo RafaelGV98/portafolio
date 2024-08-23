@@ -32,7 +32,7 @@ body {
 
 .header_menu{
     display: flex;
-    gap: 55px;
+    gap: 80px;
 
 }
 
@@ -137,6 +137,7 @@ body {
 
     .header_menu{
         justify-content: center;
+        gap: 8%;
     }
 
 
