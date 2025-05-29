@@ -59,6 +59,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## Contacto
 
-Rafael José Guerra - [tu-email@ejemplo.com]
+Rafael José Guerra - [guerravergararafaeljose928@gmail.com]
 
-Enlace del proyecto: [https://github.com/tu-usuario/portafolio](https://github.com/tu-usuario/portafolio) 
+Enlace del proyecto: [https://rafaelgv98.github.io/Portafolio/]

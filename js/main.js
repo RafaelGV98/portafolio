@@ -35,6 +35,8 @@ $(document).ready(function() {
             if (!nombre || !email || !mensaje) {
                 alert('Por favor completa todos los campos.');
                 return;
+
+                
             }
     
             // Número de WhatsApp
